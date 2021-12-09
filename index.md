@@ -1,6 +1,6 @@
 ## Welcome to airdnc 😇
 
-Something really cool and useful is being cooked here ;)
+Something **really cool** and **useful** is being cooked here ;)
 
 ### lets-work-together
 
