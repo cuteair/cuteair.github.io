@@ -1,4 +1,4 @@
-## Welcome to airdnc
+## Welcome to airdance 😇
 
 Something really cool and useful is being cooked here ;)
 
